@@ -5,7 +5,7 @@ This project focuses on building a machine learning model to predict whether a t
 
 However, the challenge lies in distinguishing between tweets that genuinely announce a disaster and those that use disaster-related terms metaphorically or in different contexts. For instance:
 
-![Example Tweet]([![tweet.png](https://i.postimg.cc/wjhCjYTd/tweet.png)](https://postimg.cc/v4Zq0jVP)))
+![Example Tweet](https://i.postimg.cc/wjhCjYTd/tweet.png)
 
 While the word "DISASTER" is used to express frustration and inconvenience related to heavy traffic, it doesn't imply an actual disaster like a natural calamity. In this context, the tweet is about a common, non-emergency situation. 
 This ambiguity underscores the need for a reliable machine learning model capable of discerning the true nature of tweets during emergencies.
