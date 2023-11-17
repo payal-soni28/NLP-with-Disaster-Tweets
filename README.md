@@ -34,5 +34,9 @@ The ensemble model achieved a validation accuracy of approximately 81.44%.Detail
 ## Testing
 The trained model is applied to the test dataset (`test.csv`), and the predictions are stored in `submission.csv`.
 
+## Future enhancements 
+- there is a potential avenue to improve the model's performance by incorporating additional data.
+- exploring advanced NLP techniques and fine-tuning the model for improved accuracy.
+
 
 
